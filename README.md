@@ -1,2 +1,2 @@
 # CustomCamera
-Create Custom Camera with AVFoundation where you can set frame of custom camera with right with orientation support
+Create Custom Camera with AVFoundation where you can set frame of custom camera with orientation support
